@@ -11,3 +11,8 @@ dist
 *.egg
 
 .tox
+
+.idea
+*.iml
+
+build
